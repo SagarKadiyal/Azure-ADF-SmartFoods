@@ -1,0 +1,9 @@
+{
+	"name": "Adf-Sagar-SmartFoods-Dev-DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "caabc9d7-071f-486c-b7dd-e2f9b81ce233",
+		"tenantId": "e544a85f-3d4a-4d08-950a-46bb7d9749c9"
+	}
+}
